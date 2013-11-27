@@ -31,3 +31,6 @@ tmp
 Gemfile.lock
 
 tags
+
+#CONFILCT TEMP FILE
+*.orig
